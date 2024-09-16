@@ -43,7 +43,7 @@
             "password": "cgr_password"
         },
         {
-            "matchHost": "ghcr.io",
+            "matchHost": "DONTMATCHghcr.io",
             "hostType": "docker",
             "description": "Encrypted creds for ghcr.io, scoped to this Github org using: https://docs.renovatebot.com/getting-started/migrating-secrets/#migrate-your-secrets-in-encrypted-form",
             "username": "renovate",
